@@ -8,7 +8,7 @@ import com.google.gson.Gson;
 
 public class buscaNoticia {
 
-    private static final String API_KEY = "7f8a6851dc52479eb3e0a41a2ee9ab46";
+    private static final String API_KEY = "";
 
     public NewsResponse buscarNoticias(String tema, int noticias) {
         try {
